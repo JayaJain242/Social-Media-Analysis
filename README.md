@@ -43,5 +43,5 @@ Jupyter Notebook
 social_media_data.csv is the dataset
 social media analysis.ipynb is the analysis notebook
 
-## 🚀 Conclusion
+# Conclusion
 This project highlights how social media data can be analyzed to understand user engagement and improve content strategies.
